@@ -1,9 +1,3 @@
-num1 = 10
-num2 = 10
-total = num1 + num2
-print(f"The sum is: {total}")
-
-
 a=5
 b=6
 c=7
