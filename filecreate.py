@@ -1,4 +1,4 @@
-with open("example1.pdf", "w") as file:
+with open("example.pdf", "w") as file:
     file.write("Hello, World!\n")
     file.write("This file was created using 'w' mode.")
     file.write("This file was created using 'w' mode.\n")
